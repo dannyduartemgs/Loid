@@ -1,4 +1,4 @@
-# Loid
+# Loid Forger
 Loid Forger from Spy X Family as a skin for Spy
 
 Huge thanks to tsuyoikenko for creating the Spy (Also thanks for always having your source files so clean lol). 
